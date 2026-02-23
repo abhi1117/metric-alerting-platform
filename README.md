@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Real‑Time Metric Alerting Platform
 
 A concise full‑stack alerting application that lets users define alert rules, ingest metrics, evaluate rules, persist alert events, and view events in real time. Built with Node.js/Express, MongoDB, React and Socket.IO.
@@ -53,17 +52,17 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 
 <img width="1919" height="1199" alt="Alert management" src="https://github.com/user-attachments/assets/c0a1c8e5-630b-46f3-8067-d08042184fab" />
 
-
+<br/>
 
 <img width="1919" height="1199" alt="Screenshot 2026-02-23 193755" src="https://github.com/user-attachments/assets/7a5869df-365d-415e-82f9-2696c2e1f554" />
 
 
-
+<br/>
 
 <img width="1919" height="1199" alt="Screenshot 2026-02-23 193811" src="https://github.com/user-attachments/assets/e9ddd033-00ff-4390-87a0-0b886824f1a4" />
 
 
-
+<br/>
 
 ## Architecture (summary)
 
