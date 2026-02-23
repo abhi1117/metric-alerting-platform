@@ -1,4 +1,4 @@
-# Real‑Time Metric Alerting Platform
+<img width="1919" height="741" alt="Screenshot 2026-02-23 222655" src="https://github.com/user-attachments/assets/df4921d0-00fb-4f21-ae40-504adf59f43a" /># Real‑Time Metric Alerting Platform
 
 A concise full‑stack alerting application that lets users define alert rules, ingest metrics, evaluate rules, persist alert events, and view events in real time. Built with Node.js/Express, MongoDB, React and Socket.IO.
 
@@ -50,15 +50,15 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 - `POST /metrics` — ingest metric
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
-<img width="1919" height="1148" alt="Screenshot 2026-02-23 205932" src="https://github.com/user-attachments/assets/332f72cc-4b7a-4e79-be2f-48ec6e42d8e6" />
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222015" src="https://github.com/user-attachments/assets/75aa2598-b1f2-4471-91f1-9b6d3627031c" />
 
 <br><br>
 
-<img width="1919" height="1199" alt="Screenshot 2026-02-23 193755" src="https://github.com/user-attachments/assets/7a5869df-365d-415e-82f9-2696c2e1f554" />
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222343" src="https://github.com/user-attachments/assets/7a8d3bae-73e7-4a68-a733-d052c987ea40" />
 
 <br><br>
 
-<img width="1919" height="1154" alt="Screenshot 2026-02-23 210022" src="https://github.com/user-attachments/assets/334e7ee2-b169-4fca-82c3-6fa350004b5c" />
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222401" src="https://github.com/user-attachments/assets/165082a7-06e3-4104-b272-047257c786e2" />
 
 <br><br>
 
@@ -66,11 +66,11 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 
 <br><br>
 
-<img width="1918" height="396" alt="image" src="https://github.com/user-attachments/assets/cb008735-b13f-42b9-8095-7990ab90651a" />
+<img width="1919" height="490" alt="Screenshot 2026-02-23 222641" src="https://github.com/user-attachments/assets/fdf76f0b-2421-4c55-b8e3-9e239a20b35a" />
 
 <br><br>
 
-<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/2ad6785a-ad7d-4f7a-8940-8c34c775c413" />
+<img width="1919" height="741" alt="Screenshot 2026-02-23 222655" src="https://github.com/user-attachments/assets/c1542e23-9f77-48f3-a3cd-7948eaecd432" />
 
 <br>
 
