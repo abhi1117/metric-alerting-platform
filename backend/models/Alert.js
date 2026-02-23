@@ -9,6 +9,4 @@ const alertSchema = new mongoose.Schema({
   lastTriggered: { type: Date, default: null },
 }, { timestamps: true });
 
-alertSchema.index({ metricName: 1 });
-
 module.exports = mongoose.model("Alert", alertSchema);

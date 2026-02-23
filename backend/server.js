@@ -21,7 +21,7 @@ app.use(express.json({ limit: "10kb" }));
 app.use((req, res, next) => {
   logger.debug(req.method + " " + req.path, { 
     query: req.query, 
-    bodySize: JSON.stringify(req.body).length 
+    bodySize: req.body ? JSON.stringify(req.body).length : 0
   });
   next();
 });
