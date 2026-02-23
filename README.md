@@ -1,4 +1,4 @@
-# Real-Time Metric Alerting Platform
+# Real‑Time Metric Alerting Platform
 
 A concise full-stack alerting application that lets users define alert rules, ingest metrics, evaluate rules, persist alert events, and view events in real time. Built with Node.js/Express, MongoDB, React and Socket.IO.
 
@@ -50,6 +50,31 @@ Frontend default: http://localhost:3000 | Backend default: http://localhost:5000
 - `POST /metrics` — ingest metric
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222015" src="https://github.com/user-attachments/assets/75aa2598-b1f2-4471-91f1-9b6d3627031c" />
+
+<br><br>
+
+<img width="1919" height="596" alt="Screenshot 2026-02-23 222343" src="https://github.com/user-attachments/assets/ab0e36fe-1eaa-4d46-9f47-c010320dce3f" />
+
+<br><br>
+
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222401" src="https://github.com/user-attachments/assets/165082a7-06e3-4104-b272-047257c786e2" />
+
+<br><br>
+
+<img width="1919" height="584" alt="Screenshot 2026-02-23 223141" src="https://github.com/user-attachments/assets/f100d70d-9f3a-4025-878a-d8f2ebb6e42d" />
+
+<br><br>
+
+<img width="1919" height="490" alt="Screenshot 2026-02-23 222641" src="https://github.com/user-attachments/assets/fdf76f0b-2421-4c55-b8e3-9e239a20b35a" />
+
+<br><br>
+
+<img width="1919" height="741" alt="Screenshot 2026-02-23 222655" src="https://github.com/user-attachments/assets/c1542e23-9f77-48f3-a3cd-7948eaecd432" />
+
+<br>
+
+
 ## Architecture (summary)
 
 Frontend (React SPA) ↔ Backend (Express + Socket.IO) ↔ MongoDB
@@ -83,19 +108,17 @@ Priority items to harden and scale the project:
 
 ## Verification checklist
 
-1. Start backend: `cd backend && npm run dev`
-2. Start frontend: `cd frontend && npm start`
-3. Create an alert with metricName="cpu", threshold=80, comparator="GT"
-4. Send metric: `curl -X POST http://localhost:5000/metrics -H "Content-Type: application/json" -d '{"metricName":"cpu","value":85}'`
-5. Verify alert event appears in Events page and in MongoDB `alertevents` collection
-6. Verify cooldown: send another metric within cooldown window and confirm no duplicate event
+- Start backend and frontend, create an alert, send a metric that breaches the threshold, confirm event appears in Events page and in `alertevents` collection; verify cooldown behavior.
 
-## Code structure
+## Where to look in the code
 
-- **Backend**: [server.js](backend/server.js), [controllers/](backend/controllers/), [services/evaluator.js](backend/services/evaluator.js), [models/](backend/models/), [services/socket.js](backend/services/socket.js)
-- **Frontend**: [pages/](frontend/src/pages/), [services/api.js](frontend/src/services/api.js)
-- **Database**: MongoDB with indexes on metricName and timestamp for query performance
+- Backend: `backend/server.js`, `backend/controllers/*`, `backend/services/evaluator.js`, `backend/models/*`, `backend/services/socket.js`.
+- Frontend: `frontend/src/pages/*`, `frontend/src/services/api.js`.
 
-## Contact & Support
+## Contact
 
-For questions or issues, please open a GitHub issue with steps to reproduce.
+For questions about this submission, review the repository or open an issue with steps to reproduce.
+=======
+# metric-alerting-platform
+A full-stack application to configure alerts, ingest metrics, and trigger notifications based on defined rules.
+
