@@ -58,7 +58,7 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 
 <br><br>
 
-<img width="1919" height="1199" alt="Screenshot 2026-02-23 193811" src="https://github.com/user-attachments/assets/e9ddd033-00ff-4390-87a0-0b886824f1a4" />
+<img width="1919" height="1154" alt="image" src="https://github.com/user-attachments/assets/2c26e82c-584c-4108-9b7b-2ffe62d22259" />
 
 <br><br>
 
