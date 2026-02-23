@@ -35,12 +35,6 @@ npm start
 
 Defaults: frontend http://localhost:3000, backend http://localhost:5000
 
-<br>
-
-<img width="1919" height="1199" alt="Screenshot 2026-02-23 222015" src="https://github.com/user-attachments/assets/5ed57cff-6216-40ac-9a1c-eeed2f11f345" />
-
-<br>
-
 Note: If you change environment variables, restart the frontend dev server — CRA reads env at start.
 
 ## What this delivers
@@ -64,6 +58,10 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
 <br>
+
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222015" src="https://github.com/user-attachments/assets/5ed57cff-6216-40ac-9a1c-eeed2f11f345" />
+
+<br><br>
 
 <img width="1919" height="596" alt="Screenshot 2026-02-23 222343" src="https://github.com/user-attachments/assets/4f98d68a-e127-4c69-81bb-5bf184a4d100" />
 
