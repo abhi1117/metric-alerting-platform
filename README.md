@@ -37,8 +37,6 @@ Defaults: frontend http://localhost:3000, backend http://localhost:5000
 
 Note: If you change environment variables, restart the frontend dev server — CRA reads env at start.
 
-For troubleshooting and extended setup steps see [SETUP.md](SETUP.md).
-
 ## What this delivers
 
 - Alert management: create, list, delete alerts. Fields: `metricName`, `threshold`, `comparator`, `message`, `cooldownSeconds`.
