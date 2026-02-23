@@ -4,7 +4,7 @@ A concise full‑stack alerting application that lets users define alert rules, 
 
 ## Quick start
 
-Prerequisites: Node.js 16+, npm, MongoDB (local or Atlas).
+Prerequisites: Node.js 16+, npm, MongoDB (local or Atlas- I have did it on local).
 
 ### Backend
 
