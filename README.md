@@ -129,5 +129,5 @@ Frontend (React SPA) ↔ Backend (Express + Socket.IO) ↔ MongoDB
 
 ## Contact
 
-For questions, open an issue with reproduction steps or contact the maintainer via repository issues.
+For questions, open an issue with reproduction steps or contact the me via repository issues.
 
