@@ -51,28 +51,16 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
 <img width="1919" height="1199" alt="Alert management" src="https://github.com/user-attachments/assets/c0a1c8e5-630b-46f3-8067-d08042184fab" />
-
 <br><br>
-
 <img width="1919" height="1199" alt="Screenshot 2026-02-23 193755" src="https://github.com/user-attachments/assets/7a5869df-365d-415e-82f9-2696c2e1f554" />
-
-
 <br><br>
-
 <img width="1919" height="1199" alt="Screenshot 2026-02-23 193811" src="https://github.com/user-attachments/assets/e9ddd033-00ff-4390-87a0-0b886824f1a4" />
-
-
 <br><br>
-
 <img width="1919" height="735" alt="image" src="https://github.com/user-attachments/assets/c50c4c47-d43d-4258-88da-d2190cac56cc" />
 <br><br>
-
 <img width="1918" height="396" alt="image" src="https://github.com/user-attachments/assets/cb008735-b13f-42b9-8095-7990ab90651a" />
-
 <br><br>
-
 <img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/2ad6785a-ad7d-4f7a-8940-8c34c775c413" />
-
 <br>
 
 
