@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real‑Time Metric Alerting Platform
 
 A concise full‑stack alerting application that lets users define alert rules, ingest metrics, evaluate rules, persist alert events, and view events in real time. Built with Node.js/Express, MongoDB, React and Socket.IO.
@@ -93,3 +94,7 @@ Priority items to harden and scale the project:
 ## Contact
 
 For questions about this submission, review the repository or open an issue with steps to reproduce.
+=======
+# metric-alerting-platform
+A full-stack application to configure alerts, ingest metrics, and trigger notifications based on defined rules.
+>>>>>>> d4fd61865dd46cc5f6fe0dce1285169e7f5593fd
