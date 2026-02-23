@@ -1,4 +1,4 @@
-<img width="1919" height="741" alt="Screenshot 2026-02-23 222655" src="https://github.com/user-attachments/assets/df4921d0-00fb-4f21-ae40-504adf59f43a" /># Real‑Time Metric Alerting Platform
+# Real‑Time Metric Alerting Platform
 
 A concise full‑stack alerting application that lets users define alert rules, ingest metrics, evaluate rules, persist alert events, and view events in real time. Built with Node.js/Express, MongoDB, React and Socket.IO.
 
@@ -54,7 +54,7 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 
 <br><br>
 
-<img width="1919" height="1199" alt="Screenshot 2026-02-23 222343" src="https://github.com/user-attachments/assets/7a8d3bae-73e7-4a68-a733-d052c987ea40" />
+<img width="1919" height="596" alt="Screenshot 2026-02-23 222343" src="https://github.com/user-attachments/assets/ab0e36fe-1eaa-4d46-9f47-c010320dce3f" />
 
 <br><br>
 
