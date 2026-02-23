@@ -50,7 +50,7 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 - `POST /metrics` — ingest metric
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
-<img width="1919" height="1199" alt="Alert management" src="https://github.com/user-attachments/assets/c0a1c8e5-630b-46f3-8067-d08042184fab" />
+<img width="1919" height="1148" alt="Screenshot 2026-02-23 205932" src="https://github.com/user-attachments/assets/332f72cc-4b7a-4e79-be2f-48ec6e42d8e6" />
 
 <br><br>
 
@@ -58,7 +58,7 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 
 <br><br>
 
-<img width="1919" height="1154" alt="image" src="https://github.com/user-attachments/assets/2c26e82c-584c-4108-9b7b-2ffe62d22259" />
+<img width="1919" height="1154" alt="Screenshot 2026-02-23 210022" src="https://github.com/user-attachments/assets/334e7ee2-b169-4fca-82c3-6fa350004b5c" />
 
 <br><br>
 
