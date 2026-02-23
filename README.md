@@ -64,6 +64,18 @@ Frontend default: http://localhost:3000  Backend default: http://localhost:5000
 
 <br><br>
 
+<img width="1919" height="735" alt="image" src="https://github.com/user-attachments/assets/c50c4c47-d43d-4258-88da-d2190cac56cc" />
+<br><br>
+
+<img width="1918" height="396" alt="image" src="https://github.com/user-attachments/assets/cb008735-b13f-42b9-8095-7990ab90651a" />
+
+<br><br>
+
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/2ad6785a-ad7d-4f7a-8940-8c34c775c413" />
+
+<br><br>
+
+
 ## Architecture (summary)
 
 Frontend (React SPA) ↔ Backend (Express + Socket.IO) ↔ MongoDB
