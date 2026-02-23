@@ -34,7 +34,11 @@ npm start
 ```
 
 Defaults: frontend http://localhost:3000, backend http://localhost:5000
+<br>
 
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222015" src="https://github.com/user-attachments/assets/5ed57cff-6216-40ac-9a1c-eeed2f11f345" />
+
+<br>
 Note: If you change environment variables, restart the frontend dev server — CRA reads env at start.
 
 ## What this delivers
@@ -56,6 +60,28 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 - `DELETE /alerts/:id` — delete alert
 - `POST /metrics` — ingest metric
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
+
+<br>
+
+<img width="1919" height="596" alt="Screenshot 2026-02-23 222343" src="https://github.com/user-attachments/assets/4f98d68a-e127-4c69-81bb-5bf184a4d100" />
+
+<br>
+
+<img width="1919" height="1199" alt="Screenshot 2026-02-23 222401" src="https://github.com/user-attachments/assets/a328fc05-5818-4020-8c24-f24a22962595" />
+
+<br>
+
+<img width="1919" height="584" alt="Screenshot 2026-02-23 223141" src="https://github.com/user-attachments/assets/2fe78a14-5a21-454d-930d-d95295dfb783" />
+
+<br>
+
+<img width="1919" height="490" alt="Screenshot 2026-02-23 222641" src="https://github.com/user-attachments/assets/9685a648-48fd-4daf-9185-7ee2cbceff70" />
+
+<br>
+
+<img width="1919" height="741" alt="Screenshot 2026-02-23 222655" src="https://github.com/user-attachments/assets/a693b932-daca-4352-b90c-c86740e59d9a" />
+
+<br>
 
 ## Architecture (summary)
 
