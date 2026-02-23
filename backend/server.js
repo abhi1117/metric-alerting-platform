@@ -66,10 +66,7 @@ const server = http.createServer(app);
 const socketService = require("./services/socket");
 
 // Connect to MongoDB and start server
-mongoose.connect(MONGO_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-})
+mongoose.connect(MONGO_URI)
   .then(() => {
     logger.info("MongoDB connected successfully");
 
