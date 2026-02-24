@@ -1,4 +1,4 @@
-# Real‑Time Metric Alerting Platform
+<img width="1919" height="628" alt="Screenshot 2026-02-24 091208" src="https://github.com/user-attachments/assets/34657bfb-8162-41bc-91f2-51dcfb3069fe" /># Real‑Time Metric Alerting Platform
 
 A concise full‑stack alerting application that lets users define alert rules, ingest metrics, evaluate rules, persist alert events, and view events in real time. Built with Node.js/Express, MongoDB, React and Socket.IO.
 
@@ -59,7 +59,19 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 
 <br>
 
-<img width="1919" height="1199" alt="Screenshot 2026-02-23 222015" src="https://github.com/user-attachments/assets/5ed57cff-6216-40ac-9a1c-eeed2f11f345" />
+<img width="1919" height="628" alt="Screenshot 2026-02-24 091208" src="https://github.com/user-attachments/assets/5b958d5e-ddb7-481a-9247-f03bdfa4a201" />
+
+<br><br>
+
+<img width="1919" height="793" alt="Screenshot 2026-02-24 091237" src="https://github.com/user-attachments/assets/71dde0bf-936c-4476-8ea8-3ceda373ca6e" />
+
+<br><br>
+
+<img width="1919" height="1142" alt="Screenshot 2026-02-24 091256" src="https://github.com/user-attachments/assets/8a91c60b-bfd5-4777-8c0d-d5726feb6ae4" />
+
+<br><br>
+
+<img width="1919" height="595" alt="Screenshot 2026-02-24 091313" src="https://github.com/user-attachments/assets/602e96b9-c106-4122-b5b0-95ddbf32cacd" />
 
 <br><br>
 
