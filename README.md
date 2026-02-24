@@ -22,6 +22,7 @@ PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/alerts_db
 ALLOWED_ORIGINS=http://localhost:3000
 NODE_ENV=development
+JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
 ```
 
 ### Frontend
@@ -44,6 +45,9 @@ Note: If you change environment variables, restart the frontend dev server — C
 - Alert evaluation: supports `GT`, `GTE`, `LT`, `LTE`, `EQ`; per‑alert cooldown prevents duplicate events.
 - Alert events: persisted in MongoDB and exposed via `GET /alert-events` (pagination, filters).
 - Real‑time updates: server emits `alert_event` via Socket.IO; frontend subscribes and prepends events.
+- **Authentication**: JWT-based authentication with user registration and login. All API endpoints (except auth) require a valid token.
+
+See [AUTHENTICATION.md](AUTHENTICATION.md) for detailed auth setup and API documentation.
 
 ## Routing note
 

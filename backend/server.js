@@ -27,6 +27,7 @@ app.use((req, res, next) => {
 });
 
 // Routes
+app.use("/auth", require("./routes/authRoutes"));
 app.use("/alerts", require("./routes/alertRoutes"));
 app.use("/metrics", require("./routes/metricRoutes"));
 app.use("/alert-events", require("./routes/eventRoutes"));
