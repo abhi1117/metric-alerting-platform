@@ -205,7 +205,7 @@ The API client automatically:
 
 ## Security Notes
 
-⚠️ **Important for Production:**
+**Important for Production:**
 
 1. **Change JWT_SECRET**: Use a strong, random secret in production
    ```bash
