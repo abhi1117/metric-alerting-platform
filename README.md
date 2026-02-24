@@ -62,6 +62,32 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
 
+<img width="1919" height="628" alt="Screenshot 2026-02-24 091208" src="https://github.com/user-attachments/assets/a3023013-390e-4210-9d31-18df7ec00065" />
+
+<img width="1919" height="793" alt="Screenshot 2026-02-24 091237" src="https://github.com/user-attachments/assets/a9536781-abb9-4ff9-b706-4ebf90d12957" />
+
+<img width="1919" height="483" alt="Screenshot 2026-02-24 091406" src="https://github.com/user-attachments/assets/3568b803-7e93-48c0-ad66-ed1314a562b9" />
+
+<img width="1919" height="584" alt="Screenshot 2026-02-23 223141" src="https://github.com/user-attachments/assets/8680c4b7-bf85-4cac-8794-d2e9b0873aee" />
+
+<img width="1919" height="780" alt="Screenshot 2026-02-24 091448" src="https://github.com/user-attachments/assets/672db8b1-fc56-4a8e-a227-b495464aa6c6" />
+
+<img width="1919" height="1142" alt="Screenshot 2026-02-24 091256" src="https://github.com/user-attachments/assets/deee3d87-ada2-4058-a742-d2c002d74ce3" />
+
+<img width="1919" height="595" alt="Screenshot 2026-02-24 091313" src="https://github.com/user-attachments/assets/7330ed8d-3d14-482c-9be8-bf53519fca45" />
+
+<img width="1919" height="540" alt="Screenshot 2026-02-24 091324" src="https://github.com/user-attachments/assets/f1d29bc6-6db3-4023-988a-abb1b23a4844" />
+
+<img width="1919" height="611" alt="Screenshot 2026-02-24 092354" src="https://github.com/user-attachments/assets/584a1995-38d4-47f6-8d3a-a639b1aabace" />
+
+<img width="1919" height="1142" alt="Screenshot 2026-02-24 092509" src="https://github.com/user-attachments/assets/cd99b4a2-2e58-4ea0-85fa-1afa73b43f4d" />
+
+<img width="1919" height="490" alt="Screenshot 2026-02-23 222641" src="https://github.com/user-attachments/assets/93e8e9bd-d3a2-4b77-ae68-2b3c689455c4" />
+
+<img width="1919" height="741" alt="Screenshot 2026-02-23 222655" src="https://github.com/user-attachments/assets/1e1bfab4-34b5-434a-a2a3-c93cbe47746b" />
+
+
+
 ## Architecture (summary)
 
 Frontend (React SPA) ↔ Backend (Express + Socket.IO) ↔ MongoDB
