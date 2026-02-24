@@ -75,11 +75,11 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 
 <br><br>
 
-<img width="1919" height="596" alt="Screenshot 2026-02-23 222343" src="https://github.com/user-attachments/assets/4f98d68a-e127-4c69-81bb-5bf184a4d100" />
+<img width="1919" height="611" alt="Screenshot 2026-02-24 092354" src="https://github.com/user-attachments/assets/aff821da-8d4d-4bef-bb0a-1aa0ee83582d" />
 
 <br><br>
 
-<img width="1919" height="1199" alt="Screenshot 2026-02-23 222401" src="https://github.com/user-attachments/assets/a328fc05-5818-4020-8c24-f24a22962595" />
+<img width="1919" height="1142" alt="Screenshot 2026-02-24 092509" src="https://github.com/user-attachments/assets/5897a00e-dc57-4fce-8ad3-7bbf40cffbe3" />
 
 <br><br>
 
