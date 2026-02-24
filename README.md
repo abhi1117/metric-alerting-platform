@@ -58,7 +58,7 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
 
-<br>
+<br><br>
 Login
 
 <img width="1919" height="628" alt="Screenshot 2026-02-24 091208" src="https://github.com/user-attachments/assets/5b958d5e-ddb7-481a-9247-f03bdfa4a201" />
