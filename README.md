@@ -57,49 +57,56 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 - `POST /metrics` — ingest metric
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
-1) Login
+
 <br>
+Login
 
 <img width="1919" height="628" alt="Screenshot 2026-02-24 091208" src="https://github.com/user-attachments/assets/5b958d5e-ddb7-481a-9247-f03bdfa4a201" />
 
 <br><br>
 
-2) Register
+Register
 
 <img width="1919" height="793" alt="Screenshot 2026-02-24 091237" src="https://github.com/user-attachments/assets/71dde0bf-936c-4476-8ea8-3ceda373ca6e" />
 
 <br><br>
-3) Error Handling
+Error Handling
 
 <img width="1919" height="624" alt="Screenshot 2026-02-24 092732" src="https://github.com/user-attachments/assets/1c265e40-2244-4771-aeea-e79356ddb833" />
 
 <br><br>
 
-4) Error Handling
+Error Handling
 
 <img width="1919" height="780" alt="Screenshot 2026-02-24 091448" src="https://github.com/user-attachments/assets/3ec0dc92-b792-479a-b717-c7e6beb733c8" />
 
 <br><br>
+Alert Management
 
 <img width="1919" height="1142" alt="Screenshot 2026-02-24 091256" src="https://github.com/user-attachments/assets/8a91c60b-bfd5-4777-8c0d-d5726feb6ae4" />
 
 <br><br>
+Comparator
 
 <img width="1919" height="584" alt="Screenshot 2026-02-23 223141" src="https://github.com/user-attachments/assets/2fe78a14-5a21-454d-930d-d95295dfb783" />
 
 <br><br>
+Send Metric
 
 <img width="1919" height="611" alt="Screenshot 2026-02-24 092354" src="https://github.com/user-attachments/assets/aff821da-8d4d-4bef-bb0a-1aa0ee83582d" />
 
 <br><br>
+Alert events
 
 <img width="1919" height="1142" alt="Screenshot 2026-02-24 092509" src="https://github.com/user-attachments/assets/5897a00e-dc57-4fce-8ad3-7bbf40cffbe3" />
 
 <br><br>
+Page size 
 
 <img width="1919" height="490" alt="Screenshot 2026-02-23 222641" src="https://github.com/user-attachments/assets/9685a648-48fd-4daf-9185-7ee2cbceff70" />
 
 <br><br>
+Start - End Date 
 
 <img width="1919" height="741" alt="Screenshot 2026-02-23 222655" src="https://github.com/user-attachments/assets/a693b932-daca-4352-b90c-c86740e59d9a" />
 
