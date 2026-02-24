@@ -57,19 +57,25 @@ The frontend includes a navigation bar and a route for `/alerts` (Alert manageme
 - `POST /metrics` — ingest metric
 - `GET /alert-events` — list events with `metricName`, `page`, `limit`, `start`, `end` filters
 
+1) Login
 <br>
 
 <img width="1919" height="628" alt="Screenshot 2026-02-24 091208" src="https://github.com/user-attachments/assets/5b958d5e-ddb7-481a-9247-f03bdfa4a201" />
 
 <br><br>
 
+2) Register
+
 <img width="1919" height="793" alt="Screenshot 2026-02-24 091237" src="https://github.com/user-attachments/assets/71dde0bf-936c-4476-8ea8-3ceda373ca6e" />
 
 <br><br>
+3) Error Handling
 
 <img width="1919" height="624" alt="Screenshot 2026-02-24 092732" src="https://github.com/user-attachments/assets/1c265e40-2244-4771-aeea-e79356ddb833" />
 
 <br><br>
+
+4) Error Handling
 
 <img width="1919" height="780" alt="Screenshot 2026-02-24 091448" src="https://github.com/user-attachments/assets/3ec0dc92-b792-479a-b717-c7e6beb733c8" />
 
