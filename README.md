@@ -185,6 +185,5 @@ Frontend (React SPA) ↔ Backend (Express + Socket.IO) ↔ MongoDB
 - Enable debug logging by setting `DEBUG=true` in `backend/.env` and check server logs.
 
 ## Contact
-
 For questions, open an issue with reproduction steps or contact the me via repository issues.
 
